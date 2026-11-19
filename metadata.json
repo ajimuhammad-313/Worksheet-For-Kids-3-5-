@@ -1,0 +1,8 @@
+{
+  "name": "LittlePlay – Learn, Play & Grow!",
+  "description": "Bilingual (Indonesian & English) educational mini-game platform for preschool children aged 3–5, featuring 30 interactive learning games across literacy, math, shapes, animals, logic, and creativity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
